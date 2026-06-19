@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="480" height="480" alt="i will sing the Lords praise" src="https://github.com/user-attachments/assets/656b32a9-ccdd-49ab-8422-0659735893c2" />
+
 Welcome to my profile. I'm Nathan Sinclair. There's nothing here at the moment, but I will be updating the content. 
 
 - 🔭 I’m currently working on this website and my online profile. 
